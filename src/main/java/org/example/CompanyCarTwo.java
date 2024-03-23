@@ -8,5 +8,4 @@ public interface CompanyCarTwo {
 
     void openAirBag();
     void closeAirBag();
-
 }

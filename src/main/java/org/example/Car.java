@@ -8,7 +8,6 @@ public interface Car {
     void stop();
     void start();
 }
-
 /***
  * 1. extends -> inherit the properties -> applicable for 'class -> class' or 'interface -> interface'
  * 2. implements -> provide the implementation for the interface -> class to interface

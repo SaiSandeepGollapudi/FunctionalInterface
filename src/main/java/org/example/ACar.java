@@ -9,7 +9,6 @@ public class ACar implements CompanyCar , CompanyCarTwo{
         System.out.println("I am coming from class A");
     }
 
-
     public void addFrontLogo() {
         //logic specific to ACar
         System.out.println("I am from ACar class");
