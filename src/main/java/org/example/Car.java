@@ -2,7 +2,6 @@ package org.example;
 
 public interface Car {
 
-
     void moveForward();
     void moveBackward();
     void stop();
