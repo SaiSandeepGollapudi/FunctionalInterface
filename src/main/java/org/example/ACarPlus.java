@@ -8,6 +8,5 @@ public class ACarPlus extends ACar{
     @Override
     public void start(){
         System.out.println("logic for start with button");
-
     }
 }

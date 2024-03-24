@@ -4,7 +4,6 @@ import java.sql.SQLOutput;
 
 public class Calculator {
 
-
     public int add(int a, int b){
         System.out.println("I am 1st method");
         return a+b;
